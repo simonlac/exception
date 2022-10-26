@@ -1,0 +1,7 @@
+C:\Users\18196\source\repos\Exemple_Exception\Exemple_Exception\bin\Debug\Exemple_Exception.exe.config
+C:\Users\18196\source\repos\Exemple_Exception\Exemple_Exception\bin\Debug\Exemple_Exception.exe
+C:\Users\18196\source\repos\Exemple_Exception\Exemple_Exception\bin\Debug\Exemple_Exception.pdb
+C:\Users\18196\source\repos\Exemple_Exception\Exemple_Exception\obj\Debug\Exemple_Exception.csproj.AssemblyReference.cache
+C:\Users\18196\source\repos\Exemple_Exception\Exemple_Exception\obj\Debug\Exemple_Exception.csproj.CoreCompileInputs.cache
+C:\Users\18196\source\repos\Exemple_Exception\Exemple_Exception\obj\Debug\Exemple_Exception.exe
+C:\Users\18196\source\repos\Exemple_Exception\Exemple_Exception\obj\Debug\Exemple_Exception.pdb
